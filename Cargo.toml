@@ -1,0 +1,7 @@
+[package]
+name = "typedstack"
+version = "0.0.0"
+authors = ["Hailey Somerville <hailey@hailey.lol>"]
+
+[dependencies]
+libc = "0.2"
